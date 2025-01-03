@@ -3,7 +3,9 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@googlemaps/js-api-loader": "^1.16.8",
     "@types/faker": "^6.6.8",
-    "faker": "^6.6.6"
+    "@types/google.maps": "^3.58.1"
   }
 }
