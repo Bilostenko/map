@@ -1,0 +1,1 @@
+{"mappings":"AAAA,iCAAiC;AACjC,0CAA0C;AAE1C,2CAA2C;AAE3C,uBAAuB","sources":["src/index.ts"],"sourcesContent":["// import { User } from \"./User\";\r\n// import { CustomMap } from \"./CustomMap\"\r\n\r\n// import { CustomMap } from \"./CustomMap\";\r\n\r\n// new CustomMap('map')"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
