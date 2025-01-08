@@ -34,4 +34,5 @@ This project creates an interactive map displaying users and companies with rand
 
 ## Usage Example
 
-After running the project, open `index.html` in your browser. The page will display a map with markers for users and companies.
+After running the project, open http://localhost:1234 in your browser. The page will display a map with markers for users and companies.
+ ![]([https://github.com/Bilostenko/React-Typescript-Project-Public-Starter/blob/main/screen.png](https://github.com/Bilostenko/map/blob/master/localhost_1234_%20(2).png))
